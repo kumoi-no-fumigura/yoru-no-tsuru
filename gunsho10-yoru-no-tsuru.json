@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/yoru-no-tsuru",
  "yomi": "よるのつる",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "鎌倉中期",
+  "author": "阿仏尼",
+  "desc": "阿仏尼が、ある人から歌の詠み方を教えてほしいと度々求められて書き与えた歌論。歌の心得を述べ、小式部内侍らの故事を引く。「阿仏口伝」とも呼ぶ。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -74,6 +79,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
